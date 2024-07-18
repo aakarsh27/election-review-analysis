@@ -9,4 +9,6 @@ The analysis revealed distinct clusters of constituencies with similar voting be
 In conclusion, the application of clustering algorithms to Lok Sabha election results demonstrates the potential of machine learning techniques in political data analysis. Future work could involve the integration of additional data sources, such as social media sentiments and economic indicators, to enhance the robustness of the clustering models.
 
 #### personal reviews
-my presentation sucked. well not really. but my professor couldnt believe all chunks of code
+my presentation sucked. well not really. but my professor couldnt believe all chunks of code. 
+
+for some reason
