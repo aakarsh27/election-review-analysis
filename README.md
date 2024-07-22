@@ -9,5 +9,4 @@ In conclusion, the application of clustering algorithms to Lok Sabha election re
 
 #### personal reviews
 my presentation was okok. well not really. but my professor couldnt believe all chunks of code. 
-
 for some reason he failed to understand how a jupyter notebook works. he ended up turning it down in the start lmao but then understood it well
